@@ -1,0 +1,22 @@
+{
+  "name": "lexicographic-sort",
+  "version": "1.0.0",
+  "description": "algorithm for lexicographic sort in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johngibbons/lexicographic-sort.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johngibbons/lexicographic-sort/issues"
+  },
+  "homepage": "https://github.com/johngibbons/lexicographic-sort#readme",
+  "devDependencies": {
+    "chai": "^3.4.1"
+  }
+}
