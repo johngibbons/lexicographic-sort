@@ -56,8 +56,8 @@ describe('lexicographic sort', function() {
         });
       });
     });
-    console.log('array length:', arr.length);
 
+    console.log('array length:', arr.length);
     var timeStart = new Date().getTime();
     lSort(arr, alphabet);
     var timeEnd = new Date().getTime();
